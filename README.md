@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # ciclos
 
 ## Ubicación del script 
